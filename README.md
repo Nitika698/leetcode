@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Nitika698/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nitika698/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Nitika698/leetcode/tree/master/0013-roman-to-integer) |
 | [1013-fibonacci-number](https://github.com/Nitika698/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Nitika698/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Nitika698/leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nitika698/leetcode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Nitika698/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
