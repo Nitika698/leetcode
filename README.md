@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nitika698/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Nitika698/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitika698/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitika698/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Nitika698/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Nitika698/leetcode/tree/master/0169-majority-element) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nitika698/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitika698/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nitika698/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nitika698/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nitika698/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitika698/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitika698/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/Nitika698/leetcode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
