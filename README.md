@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitika698/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Nitika698/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Nitika698/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Nitika698/leetcode/tree/master/0189-rotate-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nitika698/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nitika698/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nitika698/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Nitika698/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nitika698/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Nitika698/leetcode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Nitika698/leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Nitika698/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Nitika698/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitika698/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Nitika698/leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Nitika698/leetcode/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
 | ------- |
