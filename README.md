@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Nitika698/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitika698/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nitika698/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [1903-largest-odd-number-in-string](https://github.com/Nitika698/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nitika698/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Nitika698/leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Nitika698/leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Nitika698/leetcode/tree/master/1013-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Nitika698/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Nitika698/leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Nitika698/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nitika698/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Nitika698/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
