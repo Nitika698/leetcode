@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nitika698/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Nitika698/leetcode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/Nitika698/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Nitika698/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Nitika698/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitika698/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitika698/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Nitika698/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nitika698/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Nitika698/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Nitika698/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Nitika698/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nitika698/leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Nitika698/leetcode/tree/master/0509-fibonacci-number) |
