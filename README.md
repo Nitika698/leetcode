@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nitika698/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nitika698/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Nitika698/leetcode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/Nitika698/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Nitika698/leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Nitika698/leetcode/tree/master/1013-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Nitika698/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Nitika698/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Nitika698/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nitika698/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Nitika698/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Nitika698/leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Nitika698/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
