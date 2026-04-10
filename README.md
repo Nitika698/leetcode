@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Nitika698/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nitika698/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nitika698/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Nitika698/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nitika698/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nitika698/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
@@ -204,11 +205,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nitika698/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Nitika698/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Nitika698/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nitika698/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nitika698/leetcode/tree/master/0258-add-digits) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Nitika698/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Number Theory
 |  |
 | ------- |
