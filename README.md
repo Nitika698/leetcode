@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nitika698/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Nitika698/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Nitika698/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Nitika698/leetcode/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/Nitika698/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Nitika698/leetcode/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nitika698/leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Nitika698/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Nitika698/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Nitika698/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Nitika698/leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Nitika698/leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Nitika698/leetcode/tree/master/0451-sort-characters-by-frequency) |
