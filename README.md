@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Nitika698/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nitika698/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Nitika698/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Nitika698/leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nitika698/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nitika698/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nitika698/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nitika698/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nitika698/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Nitika698/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Nitika698/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Nitika698/leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nitika698/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nitika698/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Nitika698/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Nitika698/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nitika698/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Nitika698/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Nitika698/leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nitika698/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Queue
