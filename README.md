@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Nitika698/leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nitika698/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nitika698/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/Nitika698/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nitika698/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nitika698/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nitika698/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitika698/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Nitika698/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nitika698/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/Nitika698/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nitika698/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nitika698/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Nitika698/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nitika698/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nitika698/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Hash Table
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Nitika698/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Nitika698/leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Nitika698/leetcode/tree/master/0771-jewels-and-stones) |
+| [0930-binary-subarrays-with-sum](https://github.com/Nitika698/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
