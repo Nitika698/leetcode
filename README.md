@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Nitika698/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Nitika698/leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nitika698/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Nitika698/leetcode/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nitika698/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nitika698/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nitika698/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Nitika698/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Nitika698/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Nitika698/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Nitika698/leetcode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Nitika698/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nitika698/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
