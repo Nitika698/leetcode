@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Nitika698/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Nitika698/leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Nitika698/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0330-patching-array](https://github.com/Nitika698/leetcode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nitika698/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Nitika698/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Nitika698/leetcode/tree/master/0455-assign-cookies) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitika698/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Nitika698/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Nitika698/leetcode/tree/master/0179-largest-number) |
+| [0330-patching-array](https://github.com/Nitika698/leetcode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nitika698/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Nitika698/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Nitika698/leetcode/tree/master/0455-assign-cookies) |
